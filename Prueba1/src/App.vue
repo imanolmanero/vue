@@ -5,6 +5,7 @@ import cumplirAnnos from './components/Ej3.vue'
 import agregarTarea from './components/Ej4.vue'
 import mostarNombre from './components/Ej5.vue'
 import productos from './components/Ej6.vue'
+import perfilUsuario from './components/Ej7.vue'
 </script>
 
 <template>
@@ -30,7 +31,10 @@ import productos from './components/Ej6.vue'
   <br></br>
   <h1>Ejercicio 6</h1>
   <productos></productos>
-
+  <br></br>
+  <br></br>
+  <h1>Ejercicio 7</h1>
+  <perfilUsuario></perfilUsuario>
 
 </template>
 

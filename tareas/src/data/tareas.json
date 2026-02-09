@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "titulo": "Malta",
+        "descripcion": "Ir a malta a salir de fiesta",
+        "fechaInicio": "2026-02-28",
+        "completada": false
+    },
+    {
+        "id": 2,
+        "titulo": "Polonia",
+        "descripcion": "Ir a polonia a visitar museos",
+        "fechaInicio": "2026-01-19",
+        "completada": true
+    }
+]
